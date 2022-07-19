@@ -5,4 +5,9 @@ Para manter o desafio leve e também chamar atenção de um público diverso, an
 
 Foi verificado a distribuição dos pontos dos pokémons de forma geral e a cada geração, distribuição do tipo, pontos por tipo e as caracteristicas dos lendários. 
 
-Fiz um post no medium para expor os resultados (link)
+Texto no medium para exposição do projeto: <a href="https://medium.com/@izabellajastrow/gotta-understand-em-all-546764efc7ce">Clique aqui</a>
+
+---
+AUTORA 
+
+<a href="https://www.linkedin.com/in/izabella-jastrow-a8352a203/">Izabella Jastrow</a>
